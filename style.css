@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(142, 8, 231);
+}
+button{
+    width:200px;
+}
+.name_of_objects{
+    color: blue;
+}
+p{
+    color:rgb(137, 253, 28);
+}
+#webcam_view{
+    color:rgb(252, 28, 28);
+    font-size:medium;
+}
